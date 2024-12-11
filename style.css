@@ -1,0 +1,613 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#line {
+    margin-top: 20px;
+}
+
+
+#nav {
+    margin-left: 750px;
+    margin-top: 20px;
+}
+
+.navbar ul {
+    text-align: center;
+}
+
+.navbar ul li {
+    display: inline;
+   padding: 10px;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 19px;
+    color: #333;
+}
+
+.circle-img {
+    margin-left: 670px;
+    margin-top: 60px;
+}
+
+.circle-img img {
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+}
+
+
+.main-img img {
+    width: 1583px;
+    cursor:  pointer;
+}
+
+.circle-img-2 h5 {
+    opacity: 0.6;
+    color: #333;
+    text-align: center;
+}
+
+#img-1 {
+    margin-left: -100px;
+    margin-top: 2px;
+}
+
+
+#img-2 {
+    margin-left: 200px;
+    margin-top: -39px;
+}
+
+
+.card img {
+    width: 383px;
+    height: 550px;
+    margin-left: 8px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.card h5 {
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 15px;
+    color: #333;
+    opacity: 0.6;
+}
+
+
+.card h4 {
+    margin-top: -24px;
+    margin-left: 10px;
+    font-size: 20px;
+    color: #333;
+    opacity: 0.6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#card-2 {
+    margin-left: 402px;
+    margin-top: -72px;
+}
+
+
+#card-3 {
+    margin-left: 400px;
+}
+
+#card-4 {
+    margin-left: 798px;
+    margin-top: -70px;
+}
+
+
+#card-5 {
+    margin-left: 797px;
+}
+
+
+#card-6 {
+    float: right;
+    margin-right: 190px;
+    margin-top: -70px;
+}
+
+
+#card-7 {
+    float: right;
+    margin-right: 274px;
+    margin-top: -53px;
+}
+
+
+.card-2 {
+    display: inline-block;
+}
+
+
+.card-2 img {
+    width: 383px;
+    height: 550px;
+    margin-left: 8px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.card-2 h5 {
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 15px;
+    color: #333;
+    opacity: 0.6;
+}
+
+
+.card-2 h4 {
+    margin-top: -24px;
+    margin-left: 10px;
+    font-size: 20px;
+    color: #333;
+    opacity: 0.6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#card-2 {
+    margin-left: 402px;
+    margin-top: -72px;
+}
+
+
+#card-3 {
+    margin-left: 400px;
+}
+
+#card-4 {
+    margin-left: 798px;
+    margin-top: -70px;
+}
+
+
+#card-5 {
+    margin-left: 797px;
+}
+
+
+#card-6 {
+    float: right;
+    margin-right: 190px;
+    margin-top: -70px;
+}
+
+
+#card-7 {
+    float: right;
+    margin-right: 274px;
+    margin-top: -53px;
+}
+
+
+
+
+
+.card-3 {
+    display: inline-block;
+}
+
+
+.card-3 img {
+    width: 383px;
+    height: 550px;
+    margin-left: 8px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.card-3 h5 {
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 15px;
+    color: #333;
+    opacity: 0.6;
+}
+
+
+.card-3 h4 {
+    margin-top: -24px;
+    margin-left: 10px;
+    font-size: 20px;
+    color: #333;
+    opacity: 0.6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#card-2 {
+    margin-left: 402px;
+    margin-top: -72px;
+}
+
+
+#card-3 {
+    margin-left: 400px;
+}
+
+#card-4 {
+    margin-left: 798px;
+    margin-top: -70px;
+}
+
+
+#card-5 {
+    margin-left: 797px;
+}
+
+
+#card-6 {
+    float: right;
+    margin-right: 190px;
+    margin-top: -70px;
+}
+
+
+#card-7 {
+    float: right;
+    margin-right: 274px;
+    margin-top: -53px;
+}
+
+
+
+
+
+.card-4 {
+    display: inline-block;
+}
+
+
+.card-4 img {
+    width: 383px;
+    height: 550px;
+    margin-left: 8px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.card-4 h5 {
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 15px;
+    color: #333;
+    opacity: 0.6;
+}
+
+
+.card-4 h4 {
+    margin-top: -24px;
+    margin-left: 10px;
+    font-size: 20px;
+    color: #333;
+    opacity: 0.6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#card-2 {
+    margin-left: 402px;
+    margin-top: -72px;
+}
+
+
+#card-3 {
+    margin-left: 400px;
+}
+
+#card-4 {
+    margin-left: 798px;
+    margin-top: -70px;
+}
+
+
+#card-5 {
+    margin-left: 797px;
+}
+
+
+#card-6 {
+    float: right;
+    margin-right: 190px;
+    margin-top: -70px;
+}
+
+
+#card-7 {
+    float: right;
+    margin-right: 274px;
+    margin-top: -53px;
+}
+
+
+
+
+
+.card-5 {
+    display: inline-block;
+}
+
+
+.card-5 img {
+    width: 383px;
+    height: 550px;
+    margin-left: 8px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.card-5 h5 {
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 15px;
+    color: #333;
+    opacity: 0.6;
+}
+
+
+.card-5 h4 {
+    margin-top: -24px;
+    margin-left: 10px;
+    font-size: 20px;
+    color: #333;
+    opacity: 0.6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#card-2 {
+    margin-left: 402px;
+    margin-top: -72px;
+}
+
+
+#card-3 {
+    margin-left: 400px;
+}
+
+#card-4 {
+    margin-left: 798px;
+    margin-top: -70px;
+}
+
+
+#card-5 {
+    margin-left: 797px;
+}
+
+
+#card-6 {
+    float: right;
+    margin-right: 190px;
+    margin-top: -70px;
+}
+
+
+#card-7 {
+    float: right;
+    margin-right: 274px;
+    margin-top: -53px;
+}
+
+
+
+
+
+.card-6 {
+    display: inline-block;
+}
+
+
+.card-6 img {
+    width: 383px;
+    height: 550px;
+    margin-left: 8px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.card-6 h5 {
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 15px;
+    color: #333;
+    opacity: 0.6;
+}
+
+
+.card-6 h4 {
+    margin-top: -24px;
+    margin-left: 10px;
+    font-size: 20px;
+    color: #333;
+    opacity: 0.6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#card-2 {
+    margin-left: 402px;
+    margin-top: -72px;
+}
+
+
+#card-3 {
+    margin-left: 400px;
+}
+
+#card-4 {
+    margin-left: 798px;
+    margin-top: -70px;
+}
+
+
+#card-5 {
+    margin-left: 797px;
+}
+
+
+#card-6 {
+    float: right;
+    margin-right: 190px;
+    margin-top: -70px;
+}
+
+
+#card-7 {
+    float: right;
+    margin-right: 274px;
+    margin-top: -53px;
+}
+
+
+
+
+
+.card-7 {
+    display: inline-block;
+}
+
+
+.card-7 img {
+    width: 383px;
+    height: 550px;
+    margin-left: 8px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.card-7 h5 {
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 15px;
+    color: #333;
+    opacity: 0.6;
+}
+
+
+.card-7 h4 {
+    margin-top: -24px;
+    margin-left: 10px;
+    font-size: 20px;
+    color: #333;
+    opacity: 0.6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#card-2 {
+    margin-left: 402px;
+    margin-top: -72px;
+}
+
+
+#card-3 {
+    margin-left: 400px;
+}
+
+#card-4 {
+    margin-left: 798px;
+    margin-top: -70px;
+}
+
+
+#card-5 {
+    margin-left: 797px;
+}
+
+
+#card-6 {
+    float: right;
+    margin-right: 190px;
+    margin-top: -70px;
+}
+
+
+#card-7 {
+    float: right;
+    margin-right: 274px;
+    margin-top: -53px;
+}
+
+
+#line-2 {
+    margin-top: 20px;
+}
+
+.text p {
+    text-align: center;
+    color: #333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f9f9f9;
+}
+
+
+.footer {
+    margin-left: 200px;
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.footer-2 {
+    margin-left: 500px;
+    margin-top: -185px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.footer-3 {
+    margin-left: 831px;
+    margin-top: -235px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.footer-4 {
+    margin-left: 1160px;
+    margin-top: -231px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer-4 input {
+    height: 42px;
+    width: 345px;
+}
+
+.footer-4 button {
+    height: 44px;
+    margin-left: -130px;
+    width: 123px;
+    background-color: #222222;
+    color: #fff;
+}
+
+.photo {
+    float: right;
+    margin-right: 275px;
+    margin-top: 20px;
+}
+
+.photo img {
+    height: 25px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.main-footer {
+    background-color: #f9f9f9;
+}
